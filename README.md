@@ -168,5 +168,12 @@ bbqpaint/
 If you use bbqPAINT in your research, please cite:
 
 ```bibtex
-...
+@article{huijben2025calibration,
+  title={Calibration-free molecular counting from a single DNA-PAINT intensity trace using cumulants},
+  author={Huijben, Teun APM and Marie, Rodolphe and Pedersen, Jonas N},
+  journal={bioRxiv},
+  pages={2025--11},
+  year={2025},
+  publisher={Cold Spring Harbor Laboratory}
+}
 ```
